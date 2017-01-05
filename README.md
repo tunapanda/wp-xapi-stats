@@ -26,4 +26,4 @@ This plugin is intended to work like this:
 * The created reports can be viewed in the WordPress admin.
 * There will be a shortcode that can be used to put a report on a frontend facing page (i.e. outside the admin).
 * The current data from a report can be exported as a CSV file.
-* It is possible to say that a certaing column should be exported as a data value that can be consumed by [wp-data-kpis](https://github.com/tunapanda/wp-data-kpis/)
+* It is possible to say that a certaing column should be exported as a data value that can be consumed by [wp-data-kpis](https://github.com/tunapanda/wp-data-kpis/).
